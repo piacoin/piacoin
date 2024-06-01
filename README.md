@@ -2,15 +2,15 @@
 
 ![PiaCoin Logo](https://piacoin.com/wp-content/uploads/2024/05/piacoin-white.png)
 
-PiaCoin is an BEP-20 token built on the Ethereum blockchain.
+Piacoin is an BEP-20 token built on the Ethereum blockchain.
 
 ## Description
 
-PiaCoin aims to provide a decentralized and secure means of transferring value on the Ethereum network. It follows the BEP-20 standard, making it compatible with a wide range of wallets and exchanges.
+Piacoin aims to provide a decentralized and secure means of transferring value on the Ethereum network. It follows the BEP-20 standard, making it compatible with a wide range of wallets and exchanges.
 
 ## Installation
 
-To interact with PiaCoin, you will need an Ethereum wallet that supports BEP-20 tokens. You can also use Ethereum development tools such as Remix or Truffle for smart contract deployment and testing.
+To interact with Piacoin, you will need an Ethereum wallet that supports BEP-20 tokens. You can also use Ethereum development tools such as Remix or Truffle for smart contract deployment and testing.
 
 ## Usage
 
@@ -22,15 +22,15 @@ You can use PiaCoin for various purposes including payments, trading on decentra
 
 ## Getting Started
 
-To get started with PiaCoin:
+To get started with Piacoin:
 
-1. Add PiaCoin to your Ethereum wallet using the contract address.
-2. Transfer PiaCoin to other Ethereum addresses.
-3. Explore decentralized exchanges to trade PiaCoin for other tokens or ETH.
+1. Add Piacoin to your Ethereum wallet using the contract address.
+2. Transfer Piacoin to other Ethereum addresses.
+3. Explore decentralized exchanges to trade Piacoin for other tokens or ETH.
 
 ## Contributing
 
-Contributions to PiaCoin are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the project.
+Contributions to Piacoin are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the project.
 
 ## License
 
