@@ -1,4 +1,4 @@
-# PiaCoin
+# Piacoin
 
 ![PiaCoin Logo](https://piacoin.com/wp-content/uploads/2024/05/piacoin-white.png)
 
