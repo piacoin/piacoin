@@ -41,8 +41,8 @@ Website: https://piacoin.com/
 
 X: https://x.com/Pia_coin
 
-Telegram: https://t.me/piacoinsupport
+Telegram: https://t.me/piacoinchat
 
-Telegram Announcments: https://t.me/piacoinchat
+Telegram Announcments: https://t.me/piacoinannouncements
 
 Medium: https://medium.com/@Piacoin
